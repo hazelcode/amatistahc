@@ -8,7 +8,7 @@
 
 [[Descargar actualización]](https://github.com/tacozyt/amtcore/files/7615026/AMTCore.zip)
 
-# Changelogs
+# ¿Qué hay de nuevo? (Changelogs)
 
 ## Encantamiento por nbt
 **Experiencia I - III**
