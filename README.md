@@ -1,22 +1,22 @@
-# Pagina de AmatistaHC para el equipo de desarrollo
+# Sitio de AmatistaHC privado
 
 [[DESCARGAR DATAPACK]](https://tacozyt.github.io/amatistahc/descargas) [[REPOSITORIO PRINCIPAL]](https://github.com/tacozyt/amtcore)
 
 # Creditos
 
-**Creadores originales**
+## Creadores originales
 
 Mikel6624
 
-**Desarrolladores**
+## Desarrolladores
 
 SteveDeMaincra
 KernelCraft
 
-**Editores del resource pack**
+## Editores del resource pack
 
 Mikel6624
 
-**Diseño**
+## Edicion de imagenes
 
 Mikel6624
