@@ -6,17 +6,17 @@
 
 ## Creadores originales
 
-Mikel6624
+ - Mikel6624
 
 ## Desarrolladores
 
-SteveDeMaincra
-KernelCraft
+ - SteveDeMaincra
+ - KernelCraft
 
 ## Editores del resource pack
 
-Mikel6624
+ - Mikel6624
 
 ## Edicion de imagenes
 
-Mikel6624
+ - Mikel6624
