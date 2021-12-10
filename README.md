@@ -7,6 +7,7 @@
 ## Creadores originales
 
  - Mikel6624
+ - SteveDeMaincra
 
 ## Desarrolladores
 
