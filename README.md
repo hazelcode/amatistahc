@@ -12,7 +12,6 @@
 ## Desarrolladores
 
  - SteveDeMaincra
- - KernelCraft
 
 ## Editores del resource pack
 
